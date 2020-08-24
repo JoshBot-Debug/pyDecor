@@ -14,6 +14,7 @@ def strict(function):
         """
         TODO Need to update this decorator so that specifying params aren't necessary.
          Need to fix the 'self' problem.
+         
         """
 
         # Make sure that the parameter's are specified
